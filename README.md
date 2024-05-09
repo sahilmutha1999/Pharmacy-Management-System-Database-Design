@@ -133,15 +133,6 @@ These views offer convenient data retrieval for relevant stakeholders, enhancing
 - `Low Inventory Trigger`: Notifies the system when inventory levels fall below a certain threshold.
 - `Employee Notification Trigger`: Sends notifications to employees with admin or inventory manager roles when new system notifications are inserted.
 
-
-## Contributors
-
-- Sahil Mutha
-- Akshay Datir
-- Anusha Poojary
-- Ayush Yadav
-
-
 ## Functions and Procedures
 
 The code includes stored procedures for various tasks such as inserting, updating, and deleting records from the database. Each procedure is designed to perform a specific action within the system, such as inserting a new employee or updating an existing customer record.
